@@ -58,11 +58,12 @@ Xây dựng một nền tảng thư viện số hiện đại giúp người dù
 
 | Giao diện | Mô tả |
 |------------|-------|
-| ![Trang đăng nhập](docs/login.png) | Màn hình đăng nhập người dùng |
-| ![Danh sách sách](docs/book_list.png) | Giao diện hiển thị danh sách sách |
-| ![Trang quản trị](docs/admin_dashboard.png) | Dashboard quản lý và thống kê dành cho admin |
-| ![AI Gợi ý](docs/ai_recommend.png) | Giao diện gợi ý sách được đề xuất bởi AI |
-| ![Thống kê](docs/statistics.png) | Biểu đồ thống kê lượt mượn và Top 5 sách |
+| ![Trang đăng nhập](docs/ui_login_register.jpg) | Màn hình đăng ký đăng nhập |
+| ![Danh sách sách](docs/ui_user_books.jpg) | Giao diện hiển thị danh sách sách |
+| ![Trang mượn trả sách người dùng](docs/ui_user_borrow_return.jpg) | Giao diện hiển thị danh sách sách mượn trả |
+| ![Trang quản trị sách](docs/ui_admin_books.jpg) | Dashboard quản lý sách cho admin |
+| ![Trang quản trị thống kê](docs/ui_admin_stats.jpg) | Dashboard thống kê dành cho admin |
+| ![AI Gợi ý](docs/ui_ai_recommend.jpg) | Giao diện gợi ý sách được đề xuất bởi AI |
 
 ---
 
